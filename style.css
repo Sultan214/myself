@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Work Sans', sans-serif;
+
+}
+p{
+    color: #444343;
+}
+
+header{
+    background-image: url(/images/banner/banner2.png);
+    height: 700px;
+}
+.text{
+    text-align: right;
+    padding: 210px 230px 330px 870px;
+   
+   
+}
+.text h2{
+    font-size: 65px;
+
+}
+
+/* Button design */
+
+.contact{
+    padding: 12px 18px;
+    margin-top:30px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 600;
+    border: none;
+    color: #FFFFFF;
+    background-color:tomato;
+}
+
+/* main section design */
+main{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+ .part-one{
+    display: flex;
+    gap: 30px;
+ }
+.right{
+    margin-top:300px;
+    
+ }
+ .right h2{
+    font-size: 40px;
+    margin-bottom: 12px;
+ }
+.left{
+    margin-top: 130px;
+}
+
+/* my planning section */
+.plan-title{
+    text-align: center;
+    margin-top: 120px;
+}
+
+.part-two{
+    display: flex;
+    gap: 80px;
+    justify-content: space-between;
+    margin-top: 40px;
+    
+}
+
+.part-three{
+    background-image:linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%), url(/images/watch.png);
+    height: 300px;
+    margin-top: 120px;
+   
+}
+.positive{
+    padding: 60px 600px 52px 60px;
+    color: #FFFFFF;
+}
+#call{
+    padding: 10px 18px;
+    background-color: #FFFFFF;
+    color:#F15B22;
+    border-radius: 6px;
+    border: none;
+    margin-top: 20px;
+    font-size:18px;
+    font-weight: 600;
+
+}
+
+
+/* footer section */
+footer{
+    margin-top: 100px;
+    color: #FFFFFF;
+    background-color:#151414;
+    display: flex;
+    gap: 300px;
+}
+footer p{
+    color: #FFFFFF;
+}
+footer h2{
+    font-size: 45px;
+}
+footer h3{
+    font-size: 30px;
+}
+#email{
+    padding: 13px 18px;
+    width:250px;
+    border-radius: 5px;
+    border: none;
+}
+#subscribe{
+    padding: 10px 18px;
+    background-color: #FFFFFF;
+    color:#F15B22;
+    border-radius: 6px;
+    border: none;
+    font-size:18px;
+    font-weight: 600;
+}
+
+.subscribe{
+    padding-right: 230px;
+}
+.sub-title{
+    margin-top: 100px;
+}
+
+.connect{
+    padding-left: 230px;
+    padding-top: 100px;
+    padding-bottom: 110px;
+}
+.link-img a{
+text-decoration: none;
+margin-right: 10px;
+
+}
+
